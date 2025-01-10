@@ -1,3 +1,8 @@
+---
+title: CV
+nav_order: 2
+---
+
 # SHANE HALL
 
 **Portland, OR | 323-972-2690 |** shane@shanephall.com
