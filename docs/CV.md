@@ -1,3 +1,10 @@
+---
+layout: page
+title: CV
+permalink: /cv/
+---
+
+
 # SHANE HALL
 
 **Portland, OR | 323-972-2690 |** shane@shanephall.com

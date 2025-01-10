@@ -15,6 +15,9 @@ defaults:
 # aux_links:
 #   Template Repository: https://github.com/shanephall/about
 
+# just-the-docs:
+
+
 # By default, consuming the theme as a gem leaves mermaid disabled; it is opt-in
 mermaid:
   # Version of mermaid library
