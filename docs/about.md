@@ -1,6 +1,6 @@
 ---
 title: About
-nav_order: 3
+nav_order: 2
 ---
 
 # To make a long story short...

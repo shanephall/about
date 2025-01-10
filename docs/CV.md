@@ -1,11 +1,11 @@
 ---
 title: Resume
-nav_order: 2
+nav_order: 3
 ---
 
 # SHANE HALL
 
-Portland, OR | 323-972-2690 | shane@shanephall.com
+Portland, OR \| 323-972-2690 \| [shane@shanephall.com](mailto:shane@shanephall.com)
 
 Product leader with 14+ years of experience building consumer platforms and driving AI/ML initiatives that scale product development and revenue. Passionate about product culture and skilled at recruiting and managing high-performing Engineering, Product, and Design teams, as well as ensuring seamless operations and buy-in with cross-functional and c-suite partners. Seeking next career role following year-long personal sabbatical. 
 
