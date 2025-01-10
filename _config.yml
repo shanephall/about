@@ -1,8 +1,30 @@
-title: About Shane Hall
+title: www Shane P Hall com
 description: Personal site for Shane Hall
 theme: just-the-docs
+baseurl: ""
+url: https://www.shanephall.com
+repository: https://github.com/shanephall/about
 
-url: https://shanephall.github.io/about
+defaults:
+  - scope:
+      path: "docs" # an empty string here means all files in the project
+      type: "pages"
+    values:
+      layout: "default"
 
-aux_links:
-  Template Repository: https://github.com/shanephall/about
+# aux_links:
+#   Template Repository: https://github.com/shanephall/about
+
+# By default, consuming the theme as a gem leaves mermaid disabled; it is opt-in
+mermaid:
+  # Version of mermaid library
+  # Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/
+  version: "9.1.6"
+  # Put any additional configuration, such as setting the theme, in _includes/mermaid_config.js
+  # See also docs/ui-components/code
+  # To load mermaid from a local library, also use the `path` key to specify the location of the library; e.g.
+  # for (v10+):
+  # path: "/assets/js/mermaid.esm.min.mjs"
+  # for (<v10):
+  # path: "/assets/js/mermaid.min.js"
+  # Note: copy both `mermaid.esm.min.mjs` (v10+) or `mermaid.min.js` (<v10) and the associated `.ma
