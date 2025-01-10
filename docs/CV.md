@@ -1,13 +1,14 @@
 ---
-title: CV
+title: Resume
 nav_order: 2
 ---
 
 # SHANE HALL
 
-**Portland, OR | 323-972-2690 |** shane@shanephall.com
+Portland, OR | 323-972-2690 | shane@shanephall.com
 
 Product leader with 14+ years of experience building consumer platforms and driving AI/ML initiatives that scale product development and revenue. Passionate about product culture and skilled at recruiting and managing high-performing Engineering, Product, and Design teams, as well as ensuring seamless operations and buy-in with cross-functional and c-suite partners. Seeking next career role following year-long personal sabbatical. 
+
 ## EXPERIENCE
 
 **CHANGE.ORG \- San Francisco, CA |  Paris, FR | Portland, OR 				06/2015 \- 10/2023**
@@ -15,7 +16,7 @@ Product leader with 14+ years of experience building consumer platforms and driv
 **Director of Product, Growth** (09/2016 \- 08/2020)
 **Principal Product Manager, Head of Mobile** (06/2015 \- 09/2016)
 
-* Recruited by CTO and reported to the President of the $100M+ global platform for social change with 500M+ users in 196 countries and investors like Reid Hoffman, Bill Gates, and Sam Altman; exited org during restructure. 
+* Recruited by VPE and reported to the President of the $100M+ global platform for social change with 500M+ users in 196 countries and investors like Reid Hoffman, Bill Gates, and Sam Altman; exited org during restructure. 
 
 * Tasked with delivering the global strategy and transformation plan and building a new Product, Design, and Development division for mobile, later also taking over Growth, Content Marketing and AI/ML Engineering divisions. 
 

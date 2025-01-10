@@ -1,6 +1,7 @@
 ---
 title: Home
 layout: home
+nav_order: 1
 ---
 
 ## 👋 Welcome! I'm Building the Future of Tech
