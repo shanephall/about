@@ -1,29 +1,17 @@
 ---
-title: Home
+title: About
 layout: home
 nav_order: 1
 ---
 
-## 👋 Welcome! I'm Building the Future of Tech
+## 👋 Welcome - I'm Building The Future!
 
-I'm Shane Hall, a product and technology leader with a passion for building impactful products and high-performing teams. With over 15 years of experience in the tech industry, I've had the privilege of leading Product, AI/ML, and Growth initiatives at companies like Change.org and Pinterest.
+I'm Shane Hall, a product and technology leader with a passion for building impactful products and high-performing teams.
 
-### What I Do
+I recently completed a 8-year tenure at Change.org, where I led Product, AI/ML, and Growth teams for a platform serving 500M+ users. As Director of Product, I built cross-functional teams and delivered features that increased email conversion 2.5x, onsite conversion 4x, and monetization 5x.
 
-- 🚀 Build and scale products that reach hundreds of millions of users
-- 👥 Lead cross-functional teams to deliver exceptional results
-- 🤖 Drive AI/ML innovation and implementation
-- 📈 Create data-driven growth strategies
-- 🎯 Transform business metrics through product optimization
+Previously, I scaled Product and Design teams at The Hunt, culminating in its acquisition by Pinterest, and led the relaunch of Zynga.com, growing it to 1M daily active users within 3 months.
 
-### Recent Experience
+## Let's Connect
 
-Most recently, I served as Director of Product at Change.org, where I led teams that significantly improved key metrics:
-
-- Increased email conversion by 2.5x
-- Boosted onsite conversion by 4x
-- Enhanced monetization by 5x
-
-### Let's Connect
-
-I'm always interested in connecting with fellow technology enthusiasts, product leaders, and anyone passionate about building impactful products. Feel free connect with me on [LinkedIn](https://linkedin.com/in/shanephall).
+I'm always interested in connecting with fellow AI/ML geeks, product leaders, and anyone passionate about building impactful products. Feel free connect with me on [LinkedIn](https://linkedin.com/in/shanephall).
