@@ -6,7 +6,6 @@ nav_order: 1
 
 ## 👋 Hello
 
-
 I'm Shane Hall, a product and technology leader with a passion for building impactful products and high-performing teams.
 
 Most recently, I led Product, AI/ML, and Growth teams at Change.org, a global platform serving 500M+ users. As Director of Product, I built cross-functional teams and delivered step-change improvements to email conversion (2.5x), onsite conversion (4x), and monetization (5x).
