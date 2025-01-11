@@ -14,6 +14,9 @@ defaults:
     values:
       layout: "default"
 
+search_enabled: false
+nav_enabled: false
+
 # aux_links:
 #   Template Repository: https://github.com/shanephall/about
 ga_tracking: G-WVWELREXQ7
