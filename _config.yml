@@ -17,6 +17,13 @@ defaults:
 search_enabled: false
 nav_enabled: true
 
+# External navigation links
+nav_external_links:
+  - title: Calculating helium atomic excited states in coordinate space
+    url: https://doi.org/10.1119/1.4932549
+    hide_icon: false # set to true to hide the external link icon - defaults to false
+    opens_in_new_tab: true # set to true to open this link in a new tab - defaults to false
+
 # aux_links:
 #   Template Repository: https://github.com/shanephall/about
 ga_tracking: G-WVWELREXQ7
