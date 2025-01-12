@@ -15,7 +15,7 @@ defaults:
       layout: "default"
 
 search_enabled: false
-nav_enabled: false
+nav_enabled: true
 
 # aux_links:
 #   Template Repository: https://github.com/shanephall/about
