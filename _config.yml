@@ -5,7 +5,7 @@ baseurl: ""
 url: https://www.shanephall.com
 repository: https://github.com/shanephall/about
 # Set a path/url to a logo that will be displayed instead of the title
-logo: "/assets/images/SPH.png"
+logo: "/assets/images/SPH.svg"
 
 defaults:
   - scope:
